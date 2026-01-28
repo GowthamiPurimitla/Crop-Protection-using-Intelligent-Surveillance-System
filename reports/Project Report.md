@@ -99,5 +99,5 @@ The system provides a scalable, cost-effective solution suitable for farmers in 
 - IoT-based animal detection systems
 - Kaggle datasets and other online resources
 
-[Download Full PDF Report](PROJECT REPORRT.pdf)
+[Download Project Report (DOCX)](reports/PROJECT REPPORT.docx)
 
